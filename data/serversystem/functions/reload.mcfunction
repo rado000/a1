@@ -1,1 +1,1 @@
-say System Reload Completion
+say リロードしました
